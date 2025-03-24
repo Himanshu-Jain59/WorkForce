@@ -7,7 +7,7 @@ function Header() {
         Hello, <br />
         <span className="text-3xl">Employee 👋</span>
       </h1>
-      <button className="mt-3 font-bold bg-red-600 h-fit py-2 px-3 rounded-md">
+      <button className="mt-3 text-xl font-semibold bg-red-600 h-fit p-3 rounded-md cursor-pointer">
         Log out
       </button>
     </div>
